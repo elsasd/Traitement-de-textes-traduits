@@ -1,0 +1,2 @@
+(src)="3"> la república romana era el centro del mundo civilizado .
+(trg)="3"> la république romaine était le centre de la civilisation .
